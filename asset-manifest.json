@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DynamicHint-Dev/static/css/main.85d0d1ee.css",
-    "main.js": "/DynamicHint-Dev/static/js/main.d32a4836.js",
-    "static/media/Symbola.svg": "/DynamicHint-Dev/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/DynamicHint-Dev/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/DynamicHint-Dev/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/DynamicHint-Dev/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/DynamicHint-Dev/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/DynamicHint-Dev/index.html",
-    "main.85d0d1ee.css.map": "/DynamicHint-Dev/static/css/main.85d0d1ee.css.map",
-    "main.d32a4836.js.map": "/DynamicHint-Dev/static/js/main.d32a4836.js.map"
+    "main.css": "/OATutor-DynamicHint-Support/static/css/main.bbab1fa1.css",
+    "main.js": "/OATutor-DynamicHint-Support/static/js/main.667b4da6.js",
+    "static/media/Symbola.svg": "/OATutor-DynamicHint-Support/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-DynamicHint-Support/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-DynamicHint-Support/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-DynamicHint-Support/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-DynamicHint-Support/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-DynamicHint-Support/index.html",
+    "main.bbab1fa1.css.map": "/OATutor-DynamicHint-Support/static/css/main.bbab1fa1.css.map",
+    "main.667b4da6.js.map": "/OATutor-DynamicHint-Support/static/js/main.667b4da6.js.map"
   },
   "entrypoints": [
-    "static/css/main.85d0d1ee.css",
-    "static/js/main.d32a4836.js"
+    "static/css/main.bbab1fa1.css",
+    "static/js/main.667b4da6.js"
   ]
 }

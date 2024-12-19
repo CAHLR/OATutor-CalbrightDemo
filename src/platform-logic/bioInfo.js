@@ -125,7 +125,7 @@ class BioInfo extends Component {
                     </Toolbar>
                 </AppBar>
                 <div className="content-container">
-                    <h1 className="title">Enter your Bio Information</h1>
+                    <h1 className="title">Enter Your Background Information</h1>
                     {/* <div className="survey-quest">
                         <label className="survey-text">
                             What gender do you identify as?
@@ -271,9 +271,7 @@ class BioInfo extends Component {
                     </div> */}
                     <div className="survey-quest">
                         <span>
-                            Please tell us about your current and past math
-                            educational history and anything relevant to how you
-                            learn
+                        Tell us about your background with data science. Have you taken any relevant courses or worked on data-related projects? Feel free to share any careers or experiences that involved data analysis, programming, or related skills.
                         </span>
                         {/* <ul>
                             <li>

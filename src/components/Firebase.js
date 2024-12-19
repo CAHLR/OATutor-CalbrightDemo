@@ -53,9 +53,7 @@ class Firebase {
         const cond2 =
             IS_STAGING_PLATFORM && [siteLogOutput].includes(targetCollection);
 
-        return IS_PRODUCTION || cond1 || cond2
-            ? targetCollection
-            : `development_${targetCollection}`;
+        return targetCollection;
     }
 
     /**
@@ -246,8 +244,8 @@ class Firebase {
             dynamicHint,
             bioInfo,
         };
-        return this.writeData(GPTExperimentOutput, data);
-        // return this.writeData(problemSubmissionsOutput, data);
+        //return this.writeData(GPTExperimentOutput, data);
+        return this.writeData(problemSubmissionsOutput, data);
     }
 
     hintLog(
@@ -288,8 +286,8 @@ class Firebase {
             dynamicHint,
             bioInfo,
         };
-        return this.writeData(GPTExperimentOutput, data);
-        // return this.writeData(problemSubmissionsOutput, data);
+        //return this.writeData(GPTExperimentOutput, data);
+        return this.writeData(problemSubmissionsOutput, data);
     }
 
     mouseLog(payload) {
